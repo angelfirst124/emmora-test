@@ -1,10 +1,10 @@
 {
-  "name": "flexhire-code-test",
+  "name": "emmora-test",
   "version": "1.0.0",
   "private": true,
   "author": {
-    "name": "Andrei Strukau",
-    "email": "karlikboroda@gmail.com"
+    "name": "Denis Nishikawa",
+    "email": "denishikawa1226@gmail.com"
   },
   "dependencies": {
     "@material-ui/core": "^4.12.3",

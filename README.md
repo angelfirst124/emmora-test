@@ -1,4 +1,4 @@
-# Flexhire Code Test
+# Emmora Code Test
 
 ## Author
 
@@ -6,7 +6,7 @@
 ### Email: denishikawa1226@gmail.com
 
 ## Live Demo
-[Flexhire Code Test](https://flexhire-ct.herokuapp.com/)
+[emmora code Test](https://emmora.herokuapp.com/)
 
 ## Description
 
