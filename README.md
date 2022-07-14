@@ -1,4 +1,4 @@
-# Emmora Code Test
+# Frontend Assignment
 
 ## Author
 
@@ -6,7 +6,7 @@
 ### Email: denishikawa1226@gmail.com
 
 ## Live Demo
-[emmora code Test](https://emmora.herokuapp.com/)
+[ Frontend Assignment](https://flexhire-ct.herokuapp.com/)
 
 ## Description
 
