@@ -1,9 +1,5 @@
 # Frontend Assignment
 
-## Author
-
-### Name: Denis Nishikawa
-### Email: denishikawa1226@gmail.com
 
 ## Live Demo
 [ Frontend Assignment](https://flexhire-ct.herokuapp.com/)
